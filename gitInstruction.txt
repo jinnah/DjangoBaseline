@@ -1,5 +1,9 @@
 git add -A
 git Commit -m "My Commit"
+git push
+
+----Below commands are not required------
+
 
 
 git remote add origin https://github.com/jinnah/DjangoBaseline.git
